@@ -38,7 +38,7 @@ dotnet run --project App/App.csproj
 
 Se o comando da etapa anterior for executado com sucesso, um conjunto de logs parecidos com esses deve ser exibido.
 
-![](https://33333.cdn.cke-cs.com/kSW7V9NHUXugvhoQeFaf/images/bf3711a0fa98769b98f1c1786c70fc316b2de3901acc3a25.png)
+![](https://raw.githubusercontent.com/dco1993/public-images/refs/heads/main/app-console.png)
 
 Para executar o projeto basta **copiar o link** mostrado na linha que se inicia com "Now listening on: ..." e adicionar "/swagger" no fim e executar no navegador.
 
